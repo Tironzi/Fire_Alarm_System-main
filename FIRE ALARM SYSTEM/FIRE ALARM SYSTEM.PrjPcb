@@ -38,7 +38,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
+CrossRefSheetStyle=0
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TWCZPIQJ
 
 [Document5]
-DocumentPath=Power_Supply.SchDoc
+DocumentPath=[05] - POWER_SUPPY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LPCHPNHV
 
 [Document6]
-DocumentPath=STM.SchDoc
+DocumentPath=[06] - STM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,13 +152,13 @@ GenerateClassCluster=0
 DocumentUniqueId=NKMVOMXR
 
 [Document7]
-DocumentPath=Module_sim.SchDoc
+DocumentPath=FIRE ARLARM_DEV.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=6
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -166,7 +166,32 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RVIQLPKG
+DocumentUniqueId=YGXFIEPM
+
+[Document8]
+DocumentPath=..\..\..\..\LIBALTIUM\LCD 16x2 Display\LCD 16X2 NEW_design.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TYTCXXVN
+
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for FIRE ALARM SYSTEM\Design Rule Check - FIRE ARLARM_DEV.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=Project

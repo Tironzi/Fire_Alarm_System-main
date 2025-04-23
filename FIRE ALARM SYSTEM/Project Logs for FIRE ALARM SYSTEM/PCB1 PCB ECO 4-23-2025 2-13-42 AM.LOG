@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=+3V3 Pin=U3-1
+Removed Pin From Net: NetName=NetR20_2 Pin=U3-2
+Removed Pin From Net: NetName=NetC15_2 Pin=U3-5
+Removed Pin From Net: NetName=NetC16_2 Pin=U3-6
+Removed Pin From Net: NetName=NetC17_2 Pin=U3-7
+Removed Pin From Net: NetName=NetR25_2 Pin=U3-8
+Removed Pin From Net: NetName=NetR23_2 Pin=U3-9
+Removed Pin From Net: NetName=NetR28_2 Pin=U3-10
+Removed Pin From Net: NetName=NetR19_2 Pin=U3-11
+Removed Pin From Net: NetName=GND Pin=U3-12
+Removed Pin From Net: NetName=+3V3 Pin=U3-13
+Removed Pin From Net: NetName=NetJP1_6 Pin=U3-16
+Removed Pin From Net: NetName=NetJP1_5 Pin=U3-17
+Removed Pin From Net: NetName=GND Pin=U3-18
+Removed Pin From Net: NetName=+3V3 Pin=U3-19
+Removed Pin From Net: NetName=NetU3_20 Pin=U3-20
+Removed Pin From Net: NetName=NetR16_1 Pin=U3-21
+Removed Pin From Net: NetName=NetR15_1 Pin=U3-22
+Removed Pin From Net: NetName=NetR24_1 Pin=U3-26
+Removed Pin From Net: NetName=NetU3_27 Pin=U3-27
+Removed Pin From Net: NetName=NetU3_28 Pin=U3-28
+Removed Pin From Net: NetName=NetU3_29 Pin=U3-29
+Removed Pin From Net: NetName=GND Pin=U3-31
+Removed Pin From Net: NetName=+3V3 Pin=U3-32
+Removed Pin From Net: NetName=NetU3_34 Pin=U3-34
+Removed Pin From Net: NetName=NetU3_36 Pin=U3-36
+Removed Pin From Net: NetName=NetU3_37 Pin=U3-37
+Removed Pin From Net: NetName=NetU3_38 Pin=U3-38
+Removed Pin From Net: NetName=NetU3_39 Pin=U3-39
+Removed Pin From Net: NetName=NetU3_40 Pin=U3-40
+Removed Pin From Net: NetName=NetU3_42 Pin=U3-42
+Removed Pin From Net: NetName=NetU3_43 Pin=U3-43
+Removed Pin From Net: NetName=NetP3_4 Pin=U3-46
+Removed Pin From Net: NetName=GND Pin=U3-47
+Removed Pin From Net: NetName=+3V3 Pin=U3-48
+Removed Pin From Net: NetName=NetP3_2 Pin=U3-49
+Removed Pin From Net: NetName=NetJP1_3 Pin=U3-58
+Removed Pin From Net: NetName=NetJP1_4 Pin=U3-59
+Removed Pin From Net: NetName=NetR14_1 Pin=U3-60
+Removed Pin From Net: NetName=NetU3_61 Pin=U3-61
+Removed Pin From Net: NetName=NetU3_62 Pin=U3-62
+Removed Pin From Net: NetName=GND Pin=U3-63
+Removed Pin From Net: NetName=+3V3 Pin=U3-64
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAP_0603"; UniqueID = "\ZQGZUTUX" ("\ZQGZUTUX")
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "Thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 1 name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 1 SN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 1 URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 2 name"; Value = "Thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 2 SN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 2 URL"; Value = "https://www.thegioiic.com/tu-gom-0603-22pf-50v"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technical Reference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP_0603"; UniqueID = "\EVMVVIWI" ("\EVMVVIWI")
+Change component parameters (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "Thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +125degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 1 name"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 1 SN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 1 URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 2 name"; Value = "Thegioiic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 2 SN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply 2 URL"; Value = "https://www.thegioiic.com/tu-gom-0603-22pf-50v"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technical Reference"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(QFP50P1200X1200X160-64N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F103RCT6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F103RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-64 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/STM32F103RCT6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F103RCT6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U3-1
+Added Pin To Net: NetName=NetR20_2 Pin=U3-2
+Added Pin To Net: NetName=NetC15_2 Pin=U3-5
+Added Pin To Net: NetName=NetC16_2 Pin=U3-6
+Added Pin To Net: NetName=NetC17_2 Pin=U3-7
+Added Pin To Net: NetName=NetR25_2 Pin=U3-8
+Added Pin To Net: NetName=NetR23_2 Pin=U3-9
+Added Pin To Net: NetName=NetR28_2 Pin=U3-10
+Added Pin To Net: NetName=NetR19_2 Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=+3V3 Pin=U3-13
+Added Pin To Net: NetName=NetJP1_6 Pin=U3-16
+Added Pin To Net: NetName=NetJP1_5 Pin=U3-17
+Added Pin To Net: NetName=GND Pin=U3-18
+Added Pin To Net: NetName=+3V3 Pin=U3-19
+Added Pin To Net: NetName=NetU3_20 Pin=U3-20
+Added Pin To Net: NetName=NetR16_1 Pin=U3-21
+Added Pin To Net: NetName=NetR15_1 Pin=U3-22
+Added Pin To Net: NetName=NetR24_1 Pin=U3-26
+Added Pin To Net: NetName=NetU3_27 Pin=U3-27
+Added Pin To Net: NetName=NetU3_28 Pin=U3-28
+Added Pin To Net: NetName=NetU3_29 Pin=U3-29
+Added Pin To Net: NetName=GND Pin=U3-31
+Added Pin To Net: NetName=+3V3 Pin=U3-32
+Added Pin To Net: NetName=NetU3_34 Pin=U3-34
+Added Pin To Net: NetName=NetU3_36 Pin=U3-36
+Added Pin To Net: NetName=NetU3_37 Pin=U3-37
+Added Pin To Net: NetName=NetU3_38 Pin=U3-38
+Added Pin To Net: NetName=NetU3_39 Pin=U3-39
+Added Pin To Net: NetName=NetU3_40 Pin=U3-40
+Added Pin To Net: NetName=NetU3_42 Pin=U3-42
+Added Pin To Net: NetName=NetU3_43 Pin=U3-43
+Added Pin To Net: NetName=NetP3_4 Pin=U3-46
+Added Pin To Net: NetName=GND Pin=U3-47
+Added Pin To Net: NetName=+3V3 Pin=U3-48
+Added Pin To Net: NetName=NetP3_2 Pin=U3-49
+Added Pin To Net: NetName=NetJP1_3 Pin=U3-58
+Added Pin To Net: NetName=NetJP1_4 Pin=U3-59
+Added Pin To Net: NetName=NetR14_1 Pin=U3-60
+Added Pin To Net: NetName=NetU3_61 Pin=U3-61
+Added Pin To Net: NetName=NetU3_62 Pin=U3-62
+Added Pin To Net: NetName=GND Pin=U3-63
+Added Pin To Net: NetName=+3V3 Pin=U3-64
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU5_3

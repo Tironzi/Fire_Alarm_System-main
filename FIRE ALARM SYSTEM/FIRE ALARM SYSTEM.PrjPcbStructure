@@ -2,6 +2,5 @@ Record=TopLevelDocument|FileName=[01] - COVER PAGE.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[02] - BLOCK DIAGRAM.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[03] - REVISION HISTORY.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[04] - POWER DIAGRAM.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=Module_sim.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=STM.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[05] - POWER_SUPPY.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=[01] - COVER PAGE.SchDoc|FileName=[06] - STM.SchDoc|SheetNumber=6
