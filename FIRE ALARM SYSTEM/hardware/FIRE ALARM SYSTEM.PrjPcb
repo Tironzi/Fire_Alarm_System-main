@@ -50,13 +50,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\[01] - COVER PAGE.SchDoc
-AnnotationEnabled=0
+DocumentPath=[01] - COVER PAGE.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=0
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -67,13 +67,13 @@ GenerateClassCluster=0
 DocumentUniqueId=PIHFMOLP
 
 [Document2]
-DocumentPath=..\[02] - BLOCK DIAGRAM.SchDoc
-AnnotationEnabled=0
+DocumentPath=[02] - BLOCK DIAGRAM.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -84,13 +84,13 @@ GenerateClassCluster=0
 DocumentUniqueId=FRGLYHAN
 
 [Document3]
-DocumentPath=..\[03] - REVISION HISTORY.SchDoc
-AnnotationEnabled=0
+DocumentPath=[03] - REVISION HISTORY.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -101,13 +101,13 @@ GenerateClassCluster=0
 DocumentUniqueId=WWKTZVVB
 
 [Document4]
-DocumentPath=..\[04] - POWER DIAGRAM.SchDoc
-AnnotationEnabled=0
+DocumentPath=[04] - POWER DIAGRAM.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=3
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -118,13 +118,13 @@ GenerateClassCluster=0
 DocumentUniqueId=TWCZPIQJ
 
 [Document5]
-DocumentPath=..\[05] - POWER_SUPPY.SchDoc
+DocumentPath=[05] - POWER_SUPPY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=4
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -135,13 +135,13 @@ GenerateClassCluster=0
 DocumentUniqueId=LPCHPNHV
 
 [Document6]
-DocumentPath=..\[06] - STM.SchDoc
+DocumentPath=[06] - STM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=5
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -202,25 +202,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NEYHXXNW
 
-[Document10]
-DocumentPath=..\FIRE ALARM SYSTEM.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
-DocumentPath=..\
+DocumentPath=..
 DItemRevisionGUID=
 
 [GeneratedDocument2]
