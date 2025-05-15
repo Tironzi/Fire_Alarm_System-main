@@ -1,0 +1,2 @@
+../lib/output/output.c:13:6:Output_On	8	static
+../lib/output/output.c:24:6:Output_Off	8	static

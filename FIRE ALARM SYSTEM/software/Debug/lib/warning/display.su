@@ -1,0 +1,4 @@
+../lib/warning/display.c:13:6:Display_Temp	40	static
+../lib/warning/display.c:21:6:Display_Rh	40	static
+../lib/warning/display.c:30:6:Display_Sim	16	static
+../lib/warning/display.c:38:6:Lcd_warning	24	static

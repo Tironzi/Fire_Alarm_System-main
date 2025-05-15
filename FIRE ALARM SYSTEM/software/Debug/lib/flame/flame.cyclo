@@ -1,0 +1,2 @@
+../lib/flame/flame.c:14:6:flame_Init	1
+../lib/flame/flame.c:19:9:flame_get_data	2

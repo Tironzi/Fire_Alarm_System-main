@@ -1,0 +1,5 @@
+../lib/dht22/dht22.c:17:6:Set_Pin_Output	32	static
+../lib/dht22/dht22.c:25:6:Set_Pin_Input	32	static
+../lib/dht22/dht22.c:33:9:DHT22_Check_Response	16	static
+../lib/dht22/dht22.c:52:9:DHT22_Read	16	static
+../lib/dht22/dht22.c:69:10:DHT22_GetData	24	static

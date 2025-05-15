@@ -1,0 +1,2 @@
+../lib/modulesim/modulesim.c:14:19:SIM_Check	104	static
+../lib/modulesim/modulesim.c:35:19:SIM_MakeCall	112	static
